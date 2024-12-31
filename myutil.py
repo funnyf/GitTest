@@ -3,4 +3,4 @@ def hello():
 
 
 def goodbye():
-    print("goodbye world")
+    print("goodbye")
